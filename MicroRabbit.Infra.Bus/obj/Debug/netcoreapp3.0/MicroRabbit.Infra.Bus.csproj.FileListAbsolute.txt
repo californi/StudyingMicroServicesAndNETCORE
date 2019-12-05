@@ -1,0 +1,11 @@
+C:\Users\Bento\source\repos\MicroRabbit\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp3.0\MicroRabbit.Infra.Bus.deps.json
+C:\Users\Bento\source\repos\MicroRabbit\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp3.0\MicroRabbit.Infra.Bus.dll
+C:\Users\Bento\source\repos\MicroRabbit\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp3.0\MicroRabbit.Infra.Bus.pdb
+C:\Users\Bento\source\repos\MicroRabbit\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp3.0\MicroRabbit.Domain.Core.dll
+C:\Users\Bento\source\repos\MicroRabbit\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp3.0\MicroRabbit.Domain.Core.pdb
+C:\Users\Bento\source\repos\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp3.0\MicroRabbit.Infra.Bus.csprojAssemblyReference.cache
+C:\Users\Bento\source\repos\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp3.0\MicroRabbit.Infra.Bus.AssemblyInfoInputs.cache
+C:\Users\Bento\source\repos\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp3.0\MicroRabbit.Infra.Bus.AssemblyInfo.cs
+C:\Users\Bento\source\repos\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp3.0\MicroRabbit.Infra.Bus.csproj.CopyComplete
+C:\Users\Bento\source\repos\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp3.0\MicroRabbit.Infra.Bus.dll
+C:\Users\Bento\source\repos\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp3.0\MicroRabbit.Infra.Bus.pdb

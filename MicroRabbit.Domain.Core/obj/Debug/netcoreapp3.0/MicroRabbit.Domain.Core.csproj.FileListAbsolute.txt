@@ -1,0 +1,10 @@
+C:\Users\Bento\source\repos\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\netcoreapp3.0\MicroRabbit.Domain.Core.deps.json
+C:\Users\Bento\source\repos\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\netcoreapp3.0\MicroRabbit.Domain.Core.runtimeconfig.json
+C:\Users\Bento\source\repos\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\netcoreapp3.0\MicroRabbit.Domain.Core.runtimeconfig.dev.json
+C:\Users\Bento\source\repos\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\netcoreapp3.0\MicroRabbit.Domain.Core.dll
+C:\Users\Bento\source\repos\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\netcoreapp3.0\MicroRabbit.Domain.Core.pdb
+C:\Users\Bento\source\repos\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.0\MicroRabbit.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\Bento\source\repos\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.0\MicroRabbit.Domain.Core.AssemblyInfo.cs
+C:\Users\Bento\source\repos\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.0\MicroRabbit.Domain.Core.dll
+C:\Users\Bento\source\repos\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.0\MicroRabbit.Domain.Core.pdb
+C:\Users\Bento\source\repos\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.0\MicroRabbit.Domain.Core.csprojAssemblyReference.cache
